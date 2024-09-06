@@ -3,6 +3,7 @@ import Form from "../Form/Form";
 import "./App.css";
 function App() {
   console.log(1);
+  console.log(2);
   return (
     <>
       <div className="container-paragraph">
